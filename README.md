@@ -77,10 +77,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=dhana-01&show_icons=true&theme=midnight-purple&count_private=true&hide_border=false" height="200" alt="GitHub Stats" />
 </div>
 
-###
 
-<h3 align="left">📊 Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhana-01&theme=react-dark&hide_border=true" alt="Contribution Graph"/>
-</p>
