@@ -1,4 +1,6 @@
-<h1 align="center">Hey there! 👋</h1>
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=36C2F7&vCenter=true&width=450&lines=Hey+there+%F0%9F%91%8B+I'm+Dhananjaya;4th+year+Undergraduate+Student;AI+Agentic+Solutions+Builder;Project+Management+%7C+ML+%7C+Web+%7C+Apps" alt="Typing SVG" />
+</div>
 
 ###
 
@@ -51,6 +53,12 @@
 ###
 
 <h3 align="left">🛠️ Languages & Tools</h3>
+
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,js,flutter,figma" height="45" /> 
+  <img src="https://skillicons.dev/icons?i=github,gcp,vercel,git,linux" height="45" />
+</div>
 
 <div align="left">
   <!-- same icons as before -->
