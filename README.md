@@ -57,9 +57,11 @@
   <!-- (keep your icons here as you have them) -->
 </div>
 
+![snake gif](https://github.com/dhana-01/dhana-01/blob/output/github-snake-dark.svg)
 ###
 
 <h3 align="left">🏆 GitHub Trophies</h3>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dhana-01&theme=onedark&margin-w=15&margin-h=15&no-frame=true&title=MultiLanguage,Commit,Stars,Followers,PullRequest" alt="GitHub Trophies" />
@@ -78,4 +80,3 @@
 </div>
 
 
-![snake gif](https://github.com/dhana-01/dhana-01/blob/output/github-snake-dark.svg)
