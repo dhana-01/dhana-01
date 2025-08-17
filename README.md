@@ -41,14 +41,12 @@
 
 ###
 
-<h3 align="left">👩‍💻 About Me</h3>
+## 👾 About Me
 
-<p align="left">
-  I'm Dhananjaya from Sri Lanka 🇱🇰<br>
-  📚 Currently studying Information and Communication Engineering Undergraduate at SLTC<br>
-  🌱 Always learning something new and building cool projects<br>
-  ⚡ Fun fact: I love experimenting with AI, Cloud & Dev tools!
-</p>
+- 🧑‍🎓 **4th year undergraduate student**
+- 🚀 **Building AI agentic solutions and leading projects**
+- 📂 **Check out my recent projects below!**
+- 🎵 **Music Lover:** Currently vibing to [Ordinary by Alex Warren]([https://youtu.be/YOUR-LINK](https://www.youtube.com/watch?v=u2ah9tWTkmk&list=RDu2ah9tWTkmk&start_radio=1))
 
 ###
 
