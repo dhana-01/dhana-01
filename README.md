@@ -54,7 +54,7 @@
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,js,flutter,figma" height="45" /> 
+  <img src="https://skillicons.dev/icons?i=python,agno,react,js,flutter,figma" height="45" /> 
   <img src="https://skillicons.dev/icons?i=github,gcp,vercel,git,linux" height="45" />
 </div>
 
