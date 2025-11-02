@@ -44,7 +44,7 @@
 ## 👾 About Me
 
 - 🧑‍🎓 **4th year undergraduate student**
-- 🚀 **Building AI agentic solutions and leading projects**
+- 🚀 **Building AI agentic solutions**
 - 📂 **Check out my recent projects below!**
 - 🎵 **Music Lover:** Currently vibing to [Ordinary by Alex Warren]([https://youtu.be/YOUR-LINK](https://www.youtube.com/watch?v=u2ah9tWTkmk&list=RDu2ah9tWTkmk&start_radio=1))
 
