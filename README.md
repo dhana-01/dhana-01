@@ -57,7 +57,6 @@
 
   <!-- Backend / Languages -->
   <img src="https://skillicons.dev/icons?i=python,django,java,c,html,css,r" height="45" />
-  <br/>
 
   <!-- Frameworks / UI -->
   <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,astro" height="45" />
