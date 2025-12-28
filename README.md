@@ -61,30 +61,18 @@
 
   <!-- Frameworks / UI -->
   <img src="https://skillicons.dev/icons?i=react,flutter,tailwind,astro" height="45" />
-  <br/>
 
   <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel" height="45" />
-  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,vercel" height="45" />
 
   <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase" height="45" />
-  <br/>
 
   <!-- AI / Data -->
   <img src="https://skillicons.dev/icons?i=tensorflow,openai" height="45" />
-  <br/>
 
   <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=github,git,linux,vscode,postman,figma,cursor" height="45" />
-
-  <br/><br/>
-
-  <!-- Agentic AI & Advanced Tools (text-based) -->
-  <p align="center">
-    🤖 <b>Agentic AI:</b> Agno · n8n · CrewAI <br/>
-    🛠️ <b>Advanced Tools:</b> Antigravity
-  </p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman,cursor" height="45" />
 
 </div>
 
